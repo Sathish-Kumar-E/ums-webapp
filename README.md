@@ -1,2 +1,2 @@
-# ums-webapp
+# ums
 University Management System
